@@ -23,8 +23,15 @@ sections:
         education: ''
         interests: ''
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
+       background:
+    image:
+      # Name of image in `assets/media/`.
+      filename: IMG_2542.jpg
+      size: cover
+      # Image focal point. Options include `left`, `center` (default), or `right`.
+      position: center
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: true
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
