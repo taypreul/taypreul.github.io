@@ -6,7 +6,6 @@ header:
   overlay_image: IMG_2542back.jpg
   overlay_filter: 0.3
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
