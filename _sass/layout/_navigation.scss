@@ -190,22 +190,14 @@
   }
 
   button {
-    position: absolute;
-    height: 2.5rem;
-    right: 0;
-    padding: 0 0.5rem;
-    border: 0;
-    outline: none;
-    background-color: var(--global-base-color);
-    color: #fff;
-    cursor: pointer;
-    z-index: 100;
+    display: none !important;
   }
 
   .visible-links {
-    display: flex;
+    display: flex !important;
     justify-content: flex-end;
     align-items: center;
+    flex-wrap: wrap;
 
     li {
       display: table-cell;
@@ -214,7 +206,6 @@
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
-        margin-right: auto;
 
         a {
           margin-left: 0;
@@ -264,15 +255,7 @@
   }
 
   .hidden-links {
-    position: absolute;
-    top: 100%;
-    right: 0;
-    margin-top: 15px;
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
-    border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    display: none !important;
 
     a {
       margin: 0;
