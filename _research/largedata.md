@@ -2,11 +2,9 @@
 title: "Landscape scale"
 collection: projects
 ---
+I am interested in understanding large scale effects of beaver reintroduction on native fish communities across Wisconsin. This is part of a larger long-term beaver-trout interaction study currently in-progress with the Office of Applied Science. 
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-<figure class="quarter">
+<figure class="whole">
   <img src="/images/browntrout.jpg" alt="">
-  <figcaption>Caption for both images</figcaption>
+  <figcaption>Brown trout in the Driftless</figcaption>
 </figure>
