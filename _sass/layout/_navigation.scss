@@ -203,7 +203,7 @@
 
   .visible-links {
     display: table;
-    float: right;
+    width: 100%;
 
     li {
       display: table-cell;
@@ -211,10 +211,15 @@
 
       &:first-child {
         font-weight: bold;
+        text-align: left;
 
         a {
           margin-left: 0;
         }
+      }
+
+      &:not(:first-child) {
+        text-align: right;
       }
 
       &:last-child {
