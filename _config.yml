@@ -13,17 +13,17 @@ title                    : "Taylor N. Preul-Stimetz"  # Update this with your si
 title_separator          : "-"
 name                     : &name "Taylor N. Preul-Stimetz"  # Update this with your name
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://taypreul.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/preul-stimetz" # the subpath of your site, e.g. "/blog"
+repository               : "taypreul/preul-stimetz"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar"
+  avatar           : "avatar.jpg"
   name             : "Taylor N. Preul-Stimetz"
   pronouns         : # example: "she/her"  
   bio              : "Northern Lakes Research Scientist"
