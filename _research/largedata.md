@@ -1,5 +1,5 @@
 ---
-title: "Landscape scale"
+title: "Beaver Effects on stream communities"
 collection: projects
 ---
 
