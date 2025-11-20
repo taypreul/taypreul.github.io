@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work for the Wisconsin DNR Office of Applied Science as a Fisheries Research Scientist. We work in tandem with the WIDNR Bureau of Fisheries Management, federal, and tribal partners to investigate fisheries concerns across the state. I am most interested in improving our mechanistic understanding of external and anthropogenic factors affect the trajectory of fish communities over time. I have worked on topics such as Walleye recruitment and egg quality, coarse woody habitat additions, and collaborative technical projects. I am currently working on a myriad of different topics, all related to alleviating threats to fish communities (and the human communities that rely on them).
+I currently work for the Wisconsin DNR Office of Applied Science as a Fisheries Research Scientist. We work in tandem with the WIDNR Bureau of Fisheries Management, federal, and tribal partners to investigate fisheries concerns across the state. I have worked on topics such as Walleye recruitment and egg quality, coarse woody habitat additions, and collaborative technical projects. I am currently working on a myriad of different topics, all related to alleviating threats to fish communities (and the human communities that rely on them).
 
 ---
 
