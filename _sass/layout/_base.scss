@@ -11,11 +11,6 @@ body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  background-image: url('/images/IMG_2542back-1.jpg');
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 
   margin: 0;
   padding: $masthead-height 0 0;

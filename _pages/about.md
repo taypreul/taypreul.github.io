@@ -2,6 +2,8 @@
 permalink: /
 title: "Hello!"
 author_profile: true
+header:
+  image: /images/IMG_2542back-1.jpg
 redirect_from: 
   - /about/
   - /about.html
