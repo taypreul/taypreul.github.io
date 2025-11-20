@@ -22,5 +22,5 @@ I would describe myself as a generalist jack-of-all trades scientist. I am inter
   <img src="/images/howellPike.jpg" alt="">
   <img src="/images/mudpuppy.jpg" alt="">
   <img src="/images/pallettePike.jpeg" alt="">
-  <figcaption>Field research images</figcaption>
+  <figcaption style="font-size: 0.9em">Northern Pike in Howell Lk, mudpuppy in Escanaba Lk, Northern Pike in Pallette Lk (p.s. I like northern pike :]), </figcaption>
 </figure>
