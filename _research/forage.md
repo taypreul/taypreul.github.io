@@ -9,7 +9,6 @@ collection: projects
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; gap: 1rem;">
     <img src="/images/GLDS.jpg" alt="" style="width: 100%; height: 50%; object-fit: cover;">
-    <img src="/images/YPviewingchamber.jpg" alt="" style="width: 100%; height: 50%; object-fit: cover;">
-    <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem;">Left: Golden shiner (left) and Yellow Perch (right) of Northern WI.</figcaption>
+    <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem;">Left: Golden shiner (left) captured in a mini-fyke in Northern WI.</figcaption>
   </div>
 </div>

@@ -5,7 +5,7 @@ collection: projects
 
 <div style="display: flex; align-items: stretch; gap: 2rem;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-    <img src="/images/browntrout.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/browntrout.JPG" alt="" style="width: 100%; height: 100%; object-fit: cover;">
     <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem;">Brown trout in the Driftless</figcaption>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: right;">
