@@ -117,7 +117,7 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 8em 0;
+    padding: 5em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -152,6 +152,7 @@
 
     .page__title {
       font-size: $type-size-2;
+      text-align: right;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
