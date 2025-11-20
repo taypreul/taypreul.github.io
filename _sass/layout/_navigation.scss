@@ -190,25 +190,26 @@
   }
 
   button {
-    display: none !important;
+    position: absolute;
+    height: 2.5rem;
+    right: 0;
+    padding: 0 0.5rem;
+    border: 0;
+    outline: none;
+    background-color: var(--global-base-color);
+    color: #fff;
+    cursor: pointer;
   }
 
   .visible-links {
-    display: flex !important;
-    visibility: visible !important;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    width: 100%;
+    display: table;
 
     li {
-      display: inline-block !important;
-      visibility: visible !important;
+      display: table-cell;
       vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
-        margin-right: auto;
 
         a {
           margin-left: 0;
@@ -258,7 +259,15 @@
   }
 
   .hidden-links {
-    display: none !important;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
+    border-radius: $border-radius;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
       margin: 0;
