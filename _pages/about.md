@@ -29,8 +29,8 @@ We live in a diverse world facing a multitude of stressors. "Death by a thousand
 The historical management of natural and cultural resources has not typically involved true integration of tribal and non-tribal partners in the decision making process. Compartmentalization is common, which can lead to inefficiencies and mistrust in a system which desperately requires collaboration and reciprocal relationships. Regardless of the research or management topic, it is vital to prioritize reciprocity and acknowledgment of historical inequities among tribal nations and the organisms themselves.
       
 <figure class="third">
-  <img src="/images/IMG_3827.jpeg" alt="">
-  <img src="/images/IMG_9777.jpg" alt="">
-  <img src="/images/spring_peeper.jpg" alt="">
+  <img src="/images/howellPike.jpeg" alt="">
+  <img src="/images/mudpuppy.jpg" alt="">
+  <img src="/images/pallettePike.jpeg" alt="">
   <figcaption>Field research images</figcaption>
 </figure>
