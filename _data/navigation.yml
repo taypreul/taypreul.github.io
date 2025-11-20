@@ -17,8 +17,8 @@ main:
   - title: "Research"
     url: /research/     
     
-  - title: "About Me"
-    url: /aboutme/
+  - title: "Bio"
+    url: /bio/
     
   - title: "CV"
     url: /files/TPS_CV2025.pdf

@@ -195,13 +195,15 @@
 
   .visible-links {
     display: flex !important;
+    visibility: visible !important;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     width: 100%;
 
     li {
-      display: inline-block;
+      display: inline-block !important;
+      visibility: visible !important;
       vertical-align: middle;
 
       &:first-child {

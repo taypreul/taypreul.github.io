@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "About Me"
-permalink: /aboutme/
+title: "Bio"
+permalink: /bio/
 author_profile: true
 header:
   overlay_image: IMG_2542back.jpg
