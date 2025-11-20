@@ -95,6 +95,9 @@
 
   img {
     max-width: 175px;
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -194,7 +197,7 @@
   list-style-type: none;
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
-  background: var(--global-bg-color);
+  background: rgba(255, 255, 255, 0.95);
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;

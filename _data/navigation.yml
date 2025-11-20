@@ -12,13 +12,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/     
+    url: /research/     
     
   - title: "About Me"
-    url: /about/
+    url: /aboutme/
     
   - title: "CV"
-    url: /files/TPS_CV2025.pdf/
+    url: /files/TPS_CV2025.pdf
     
   # - title: "CV"
   #   url: /cv-json/
