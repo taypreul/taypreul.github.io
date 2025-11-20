@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Hello!"
+title: ""
 author_profile: true
 header:
-  overlay_image: IMG_2542back-1.jpg
+  overlay_image: IMG_2542back.jpg
   overlay_filter: 0.3
 redirect_from: 
   - /about/
