@@ -9,6 +9,7 @@ collection: projects
     <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem;">Brown trout in the Driftless</figcaption>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: right;">
+    <h2 style="margin-top: 0; text-align: right;">Beaver Effects on stream communities</h2>
     <p>I am interested in understanding large scale effects of beaver reintroduction on native fish communities across Wisconsin. This is part of a larger long-term beaver-trout interaction study currently in-progress with the Office of Applied Science.</p>
   </div>
 </div>

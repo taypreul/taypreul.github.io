@@ -5,6 +5,7 @@ collection: projects
 
 <div style="display: flex; align-items: stretch; gap: 2rem;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <h2 style="margin-top: 0;">Fish Community Rehabilitation</h2>
     <p>Fish restoration work in Northern Wisconsin is largely focused on single-species efforts to restore declining populations of Walleye. Walleye are declining for a multitude of reasons, which continue to become more complex and difficult to resolve. We are researching novel walleye rehabilitation methods which incorporate multiple strategies and are underpinned with strong collaboration across tribal, state, and federal agencies.</p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
