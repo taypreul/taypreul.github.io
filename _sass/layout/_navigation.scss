@@ -218,7 +218,9 @@
       }
       
       &:nth-child(2) {
-        padding-left: 3rem;
+        @include breakpoint($large) {
+          padding-left: 3rem;
+        }
       }
 
       &:last-child {

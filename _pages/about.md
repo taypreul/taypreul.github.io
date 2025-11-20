@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working for the Wisconsin DNR as a Fisheries Research Scientist conducting research to fulfill management goals for the state. I am most interested in improving our mechanistic understanding of how population dynamics and anthropogenic factors affect the trajectory of fish communities over time.
+I currently work for the Wisconsin DNR Office of Applied Science as a Fisheries Research Scientist. We work in tandem with the WIDNR Bureau of Fisheries Management, federal, and tribal partners to investigate fisheries concerns across the state. I am most interested in improving our mechanistic understanding of external and anthropogenic factors affect the trajectory of fish communities over time. I have worked on topics such as Walleye recruitment and egg quality, coarse woody habitat additions, and collaborative technical projects. I am currently working on a myriad of different topics, all related to alleviating threats to fish communities (and the human communities that rely on them).
 
 ---
 
@@ -22,5 +22,5 @@ I would describe myself as a generalist jack-of-all trades scientist. I am inter
   <img src="/images/howellPike.jpg" alt="">
   <img src="/images/mudpuppy.jpg" alt="">
   <img src="/images/pallettePike.jpeg" alt="">
-  <figcaption style="font-size: 0.9em">Northern Pike in Howell Lk, mudpuppy in Escanaba Lk, Northern Pike in Pallette Lk (p.s. I like northern pike :]), </figcaption>
+  <figcaption style="font-size: 0.9em">Northern Pike in Howell Lk, mudpuppy in Escanaba Lk, Northern Pike in Pallette Lk (p.s. I like northern pike :]) </figcaption>
 </figure>
