@@ -17,6 +17,9 @@ main:
   - title: "Bio"
     url: /bio/
     
+  - title: "PhD"
+    url: /phd/
+    
   - title: "CV"
     url: /files/TPS_CV2026.pdf
     
