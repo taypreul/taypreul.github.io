@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  jekyll-site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jekyll-site
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - JEKYLL_ENV=development
+    command: jekyll serve -H 0.0.0.0 -w --config _config.yml,_config_docker.yml
