@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "PhD Research"
+layout: archive
+title: ""
 permalink: /phd/
 author_profile: true
 header:
@@ -24,5 +24,4 @@ Our objective necessitates in-depth understanding of the habitat, forage, and fi
 Project Outcomes:
 Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience. 
 
-  <img src="/images/reef.jpg" alt="" style="width: 100%; height: 300px; object-fit: cover;">
-</div>
+<img src="/images/reef.jpg" alt="" style="width: 100%; height: auto; object-fit: contain;">
