@@ -16,7 +16,7 @@ After two years at community college, I transferred to Northern Michigan Univers
  
 I received my MS Fisheries Management from Montana State University in 2022. My research investigated mechanisms leading to failure to thrive of cutthroat trout in hatcheries. This experience taught me the value of working closely with stakeholders to resolve applied management problems. My research was also fairly complex and involved many different aspects of fish physiology, and I enjoyed learning about how each biological component created the sum of the individual fish and subsequently scaled to population level effects. 
  
-Regardless of where I am, there is always something beautiful in nature or in people. From the smallest salamander to the biggest redwood, there are many wonders to appreciate. 
+Regardless of where I am, there is always something beautiful in nature or in people. From the smallest salamander to the biggest white pine, there are many wonders to appreciate. 
 
 I enjoy my work, but it is only a small part of who I am. I am also an enthusiastically mediocre knitter/painter, trail runner, and nordic skiier. I just got my first full suspension mtn bike and now I am a menace to myself and others. Most of all, I value quality time with my partner and dog.
 
