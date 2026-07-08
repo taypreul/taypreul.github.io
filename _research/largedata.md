@@ -5,7 +5,7 @@ collection: projects
 
 <div style="display: flex; align-items: stretch; gap: 2rem;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-    <img src="/images/SHINER.JPG" alt="" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="/images/SHINER.png" alt="" style="width: 100%; height: 100%; object-fit: cover;">
     <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem;">A school of shiners in a bed of aquatic macrophytes. </figcaption>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: right;">

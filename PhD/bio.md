@@ -14,18 +14,20 @@ header:
 <div>
   <details style="margin-bottom: 1.25rem;">
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Setting the Stage for Fish Community Rehabilitation</summary>
+    <div style="display: flex; gap: 1.25rem; align-items: flex-start; flex-wrap: wrap; margin-top: 0.75rem;">
+      <div style="flex: 1 1 0; min-width: 0;">
+        <p>Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation.</p>
 
+        <p>Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects.</p>
+
+        <p>Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery. Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience.</p>
       </div>
-  <div style="flex: 0 0 300px; max-width: 300px; width: 100%;">
-    <figure style="margin: 0 0 1em 0; text-align: center;">
-      <img src="/images/walleye.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
-    </figure>
-
-    <p>Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation.</p>
-
-    <p>Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects.</p>
-
-    <p>Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery. Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience.</p>
+      <div style="flex: 0 0 300px; max-width: 300px; width: 100%;">
+        <figure style="margin: 0 0 1em 0; text-align: center;">
+          <img src="/images/walleye.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
+        </figure>
+      </div>
+    </div>
   </details>
 </div>
 
