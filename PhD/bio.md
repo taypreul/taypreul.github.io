@@ -23,14 +23,14 @@ Below you will find summaries of the fieldwork we have completed so far!
   <summary style="font-size: 1.1em; font-weight: 700;"><strong>Franklin Lake Walleye Spawning Locations 2026</strong></summary>
 A proposed factor limiting walleye recruitment in Franklin Lake is the lack of drought-resistant spawning habitat. Much of the preferred spawning habitat for walleye (e.g., layered cobble on a windswept shoreline) occurs immediately adjacent to shore, is limited to only a few sections of shoreline, and becomes dewatered during low-water years. As a seepage lake with limited groundwater inputs, Franklin Lake is particularly vulnerable to water level fluctuations. During the prolonged drought of the early to mid-2000s, lake levels dropped approximately 2–3 feet. This period coincided with the most pronounced declines in both adult and age-0 walleye abundance (Figure 1). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/frankAbundance.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 1. Adult walleye abundance in Franklin Lake from 1989-2025.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 1. Adult walleye abundance in Franklin Lake from 1989-2025.</figcaption>
 </figure>
 
 To mitigate the lack of spawning habitat during low-water years, construction of an artificial spawning reef has been proposed and approved. During the winter, cobble will be transported from a nearby gravel pit and placed on the ice so that, as the ice weakens and breaks under the weight, the cobble settles along the 5–6 ft depth contour. During years with normal or high water levels, the reef will augment existing spawning habitat. During low-water years, it could replace habitat that is no longer underwater.
 
 Based on walleye catch rates and habitat observations, the proposed reef location is along the eastern shoreline, which is hypothesized to support the majority of walleye spawning activity in the lake (Figure 2). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/reef.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 2. Spawning reef location in Franklin Lake.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 2. Spawning reef location in Franklin Lake.</figcaption>
 </figure>  However, walleye are also frequently observed around the island and rock humps in the southern portion of the lake, and it is unclear how important these areas are for spawning. To better understand current spawning locations and help refine the final reef placement, we conducted an ovipositor tagging study during the spring of 2026.
 
 In late April, we set eight fyke nets in Franklin Lake in locations that both maximized walleye catch rates and ensured representation of the entire lake potential spawning habitat. The primary objective was to capture prespawn female walleye.
@@ -39,15 +39,15 @@ Walleye spawn immediately after ice-out but are not necessarily ready to release
 
 Ovipositor tags are small radio transmitters (~0.75 inches long and 0.3 inches in diameter) (Figure 3).<figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/oviTag.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 3. An ovipositor tag used in walleye tracking study in Franklin Lake.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 3. An ovipositor tag used in walleye tracking study in Franklin Lake.</figcaption>
 </figure> Each transmitter broadcasts a unique radio frequency that can be detected using a receiver and antenna. When the receiver is tuned to a specific tag, it detects the signal as a series of faint beeps that become louder as the receiver gets closer to the tag (Figure 4). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/tracking.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 4. A UW-Madison technician listening for ovipositor tags in Franklin Lake.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 4. A UW-Madison technician listening for ovipositor tags in Franklin Lake.</figcaption>
 </figure> Fish from each fyke net were processed separately. All walleye were sexed, measured for total length and weight, aged using dorsal spine samples, and marked with uniquely numbered Floy tags. Prespawn females also received an ovipositor tag. All fish were released at the lake's deep hole to standardize release locations. Once all 50 ovipositor tags had been deployed, we removed the fyke nets.
 
 We began tracking tags in early May and concluded the study in late May when the tag batteries expired. Each time a tag was located, we recorded a precise GPS location, measured water depth, and marked the location with a stake and pink flagging tape so a detailed habitat assessment could be conducted later in the summer (Figure 5). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/tagsPins.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 5. Recovered ovipositor tags and their spawned locations, marked with pink flagging tape.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 5. Recovered ovipositor tags and their spawned locations, marked with pink flagging tape.</figcaption>
 </figure>
 
 We successfully located all 50 deployed tags and physically recovered 45 of them, for a 90% recovery rate (Figure 6).The majority of the tags were found along the eastern shoreline in the rocky cobble that was hypothesized to be the primary spawning habitat. Many were buried beneath multiple layers of cobble, with only the antenna visible above the rocks. Some tags were found near the northern and southern margins of the cobble bed where the substrate transitioned to sand and the cobble became sparser and more embedded. Franklin Lake is approximately 75% sand, and several of these tags had been washed completely out of the cobble. Based on walleye catch rates and habitat observations, these transition areas were thought to provide only marginal spawning habitat, and the tagging results support that hypothesis. 
@@ -59,12 +59,9 @@ Our study indicates that the preferred spawning habitat of walleye is limited an
 During the summer of 2026, we will conduct a quantitative habitat assessment at each tag location to determine how substrate characteristics such as cobble size, embeddedness, and rock layer depth, influence spawning site selection. These results will help refine the final design and placement of the spawning reef.
 <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
   <img src="/images/reefTags.jpg" alt="" style="display: block; margin: 0 auto; width: 45%; max-width: 500px; height: auto; object-fit: contain;">
-  <figcaption>Figure 6. GPS locations of ovipositor tags recovered in Franklin Lake.</figcaption>
+  <figcaption style="font-size: 0.9em">Figure 6. GPS locations of ovipositor tags recovered in Franklin Lake.</figcaption>
 </figure>
 </details>
-
-<details>
-  <summary style="font-size: 1.1em; font-weight: 700;"><strong>Sportfish Surveys 2026</strong></summary>
 
 Changes in fish communities have been implicated in walleye declines across Northern Wisconsin. To understand how the dynamics of other sportfish (e.g., northern pike, walleye, smallmouth & largmouth bass) in Franklin and Butternut lakes could impact walleye, we conducted fyke net and electrofishing surveys in the spring. 
 
@@ -82,7 +79,7 @@ In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the ave
 <figure class="third">
   <img src="/images/tpsPikeFrank.jpg" alt="">
   <img src="/images/SCCFrankfkye.jpg" alt="">
-  <img src="/images/tpsWaefrank.jpeg" alt="">
+  <img src="/images/tpsWaefrank.jpg" alt="">
   <figcaption style="font-size: 0.9em">Northern pike on Franklin Lake, Sokoaogon Chippewa Community biologists setting fyke nets thru ice on Franklin, walleye on Franklin Lake </figcaption>
 </figure>
 </details>
@@ -95,7 +92,7 @@ In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the ave
  <figure class="third">
   <img src="/images/franklin_sunrise.jpg" alt="">
   <img src="/images/commonFrank.jpg" alt="">
-  <img src="/images/dace.jpeg" alt="">
+  <img src="/images/dace.jpg" alt="">
   <figcaption style="font-size: 0.9em">Sunrise on Franklin lake, common shiner on Franklin, Northern redbelly dace on Butternut lake </figcaption>
 </figure>
 
