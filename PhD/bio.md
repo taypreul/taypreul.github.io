@@ -14,19 +14,16 @@ header:
 <div>
   <details style="margin-bottom: 1.25rem;">
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Setting the Stage for Fish Community Rehabilitation</summary>
-    <div style="display: flex; gap: 1.25rem; align-items: flex-start; flex-wrap: wrap; margin-top: 0.75rem;">
-      <div style="flex: 1 1 0; min-width: 0;">
-        <p>Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation.</p>
+    <div style="margin-top: 0.75rem;">
+      <figure style="margin: 0 0 1.25rem 0; text-align: center; max-width: 320px; margin-left: auto; margin-right: auto;">
+        <img src="/images/walleye.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
+      </figure>
 
-        <p>Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects.</p>
+      <p>Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation.</p>
 
-        <p>Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery. Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience.</p>
-      </div>
-      <div style="flex: 0 0 300px; max-width: 300px; width: 100%;">
-        <figure style="margin: 0 0 1em 0; text-align: center;">
-          <img src="/images/walleye.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
-        </figure>
-      </div>
+      <p>Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects.</p>
+
+      <p>Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery. Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience.</p>
     </div>
   </details>
 </div>
@@ -113,10 +110,9 @@ header:
 <p>In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the average length was 19.4" (max 27.8"). We electrofished one night on Franklin and caught 74 smallmouth bass with an average length of ~16.4" (max 19.4") and 7 largemouth bass (max 21.3").</p> 
 
 <figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
-  <img src="images/SCCFrankfyke.jpg" alt="" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; grid-column: 1 / -1; margin-bottom: 0.75em;">
-  <img src="/images/tpsWaeFrank.jpg" alt="" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block;">
-  <img src="/images/tpsPikeFrank.jpg" alt="" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block;">
-  <figcaption style="font-size: 0.9em; margin-top: 0.25em;">Northern pike on Franklin Lake, Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
+  <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
+  <img src="/images/tpsWaeFrank.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
+  <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
 </figure>
 </details>
 </div>
@@ -141,10 +137,10 @@ header:
   <details style="margin-bottom: 1.25rem;">
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Other Work</summary>
 <p>We have been conducting biweekly water quality (e.g., temperature, oxygen, chlorophyl-a,) and zooplankton (microscopic animals) sampling on both lakes in conjunction with the other sampling being done by CLMN volunteers. We have also been collecting benthic macroinvertebrates (aquatic bugs) each month by kicknetting in the substrate. We are interested in understanding how the availability of forage on these lower trophic levels may impact the interactions of fish in both lakes, and how invasive species like rusty crayfish and spiny water flea interact with the aquatic community.</p>
-<figure class="half">
-  <img src="/images/kicknet.jpg" alt="">
-  <img src="/images/bug.jpg" alt="">
-  <figcaption style="font-size: 0.9em">UW-Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake; an aquatic macroinvertebrate being identified under the microscope </figcaption>
+<figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
+  <img src="/images/kicknet.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
+  <img src="/images/bug.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
+  <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">UW-Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake; an aquatic macroinvertebrate being identified under the microscope </figcaption>
 </figure>
  
 </details>
