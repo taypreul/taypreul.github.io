@@ -134,9 +134,9 @@ header:
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Other Work</summary>
 <p>We have been conducting biweekly water quality (e.g., temperature, oxygen, chlorophyl-a,) and zooplankton (microscopic animals) sampling on both lakes in conjunction with the other sampling being done by CLMN volunteers. We have also been collecting benthic macroinvertebrates (aquatic bugs) each month by kicknetting in the substrate. We are interested in understanding how the availability of forage on these lower trophic levels may impact the interactions of fish in both lakes, and how invasive species like rusty crayfish and spiny water flea interact with the aquatic community.</p>
 
-<figure>
-  <img src="/images/kicknet.jpg" alt="">
-  <figcaption style="font-size: 0.9em"> UW- Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake </figcaption>
+<figure style="max-width: 320px; margin: 1em auto 0; text-align: center;">
+  <img src="/images/kicknet.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
+  <figcaption style="font-size: 0.9em; margin-top: 0.35em;">UW-Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake.</figcaption>
 </figure>
  
 </details>
