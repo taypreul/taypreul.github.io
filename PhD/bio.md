@@ -101,11 +101,11 @@ header:
 
 <p>In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the average length was 19.4" (max 27.8"). We electrofished one night on Franklin and caught 74 smallmouth bass with an average length of ~16.4" (max 19.4") and 7 largemouth bass (max 21.3").</p> 
 
-<figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start;">
-  <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="/images/tpsPikeFrank.jpg" alt="" style="width: 100%; height: 220px; object-fit: cover;">
-  <img src="/images/tpsWaefrank.jpg" alt="" style="width: 100%; height: 220px; object-fit: cover;">
-  <figcaption style="font-size: 0.9em; grid-column: 1 / -1;">Northern pike on Franklin Lake, Sokoaogon Chippewa Community biologists setting fyke nets thru ice on Franklin, walleye on Franklin Lake </figcaption>
+<figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
+  <img src="/images/tpsWaefrank.jpg" alt="" style="width: 100%; height: 220px; object-fit: cover; display: block; grid-column: 1 / -1; margin-bottom: 0.75em;">
+  <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 320px; object-fit: cover; display: block;">
+  <img src="/images/tpsPikeFrank.jpg" alt="" style="width: 100%; height: 320px; object-fit: cover; display: block;">
+  <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">Northern pike on Franklin Lake, Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
 </figure>
 </div>
 
