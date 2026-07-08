@@ -75,6 +75,9 @@ During the summer of 2026, we will conduct a quantitative habitat assessment at 
 </div>
 </details>
 
+<details>
+  <summary style="font-size: 1.1em; font-weight: 700;"><strong>Sportfish Surveys 2026</strong></summary>
+
 Changes in fish communities have been implicated in walleye declines across Northern Wisconsin. To understand how the dynamics of other sportfish (e.g., northern pike, walleye, smallmouth & largmouth bass) in Franklin and Butternut lakes could impact walleye, we conducted fyke net and electrofishing surveys in the spring. 
 
 We conducted a comprehensivey survey on Butternut to calculate population estimates on all major sportfish. The ovipositor tracking study precluded us from doing a comprehensive survey on walleye or northern pike in Franklin because the nets needed to be pulled out to not disturb females with the radio tags and cause them to be release prematurely. We were also unable to do a full survey on bass because we did not want to disturb any radio tags that had been released. We obtained some catch and effort data in 2026, but a full comprehensive survey was done on Franklin in 2025. 
