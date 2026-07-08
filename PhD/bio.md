@@ -7,20 +7,65 @@ header:
   overlay_image: IMG_2542back.jpg
   overlay_filter: 0.3
 ---
-My PhD research will begin spring of 2026 and will continue until 2030. I am co-advised by Dr. Zach Feiner at UW-Madison and Dr. Greg Sass with the WIDNR- Office of Applied Science. We hope to study the effects of a spawning reef on Franklin Lake, WI, as well as understand whole-ecosystem bottlenecks to successful walleye recruitment across the region. This project is a large collaborative effort among WI DNR – Office of Applied Science, WI DNR- Fisheries Management, Sokaogon Chippewa Community, U.S. Forest Service, Great Lakes Fish and Wildlife Commission, UW- Madison Center for Limnology.
+I am very grateful to be pursuing my PhD at UW-Madison with the Center for Limnology. I am co-advised by Dr. Zach Feiner and Dr. Jake Vander Zanden at UW-Madison and Dr. Greg Sass with the WIDNR- Office of Applied Science. We hope to study the effects of a spawning reef on Franklin Lake, WI, as well as understand whole-ecosystem bottlenecks to successful walleye recruitment across the region. This project is a large collaborative effort among WI DNR – Office of Applied Science, WI DNR- Fisheries Management, Sokaogon Chippewa Community, U.S. Forest Service, Great Lakes Fish and Wildlife Commission, and UW- Madison Center for Limnology.
 
 ~~~~
-Setting the Stage for Fish Community Rehabilitation: A Proposed Study on Franklin and Butternut Lakes 
+<details>
+  <summary><strong>Setting the Stage for Fish Community Rehabilitation</strong></summary>
 
-Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation. Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects.
+  Walleye/ogaa (Sander vitreus) are an essential component of the socioecological system in the Ceded Territories of Wisconsin, Michigan, and Minnesota. Their populations have steadily declined since the 1980’s and attempts to reverse this trend have shown mixed success. Walleye rehabilitation projects that integrate multiple techniques, such as combining stocking of extended-growth fingerlings with harvest reductions, and engaging partners early in the planning process tend to be most effective. Many projects seek to resolve the loss of consistent natural recruitment, which has been a major limiting factor in walleye recovery efforts. Where spawning habitat is limited, nearshore artificial gravel reefs have been constructed at depths suitable for walleye reproduction. However, few reef projects are rigorously monitored before and after installation and often do not include assessments of the fish community. Our project represents an opportunity to address a key knowledge gap in walleye rehabilitation. Franklin lake (Forest County, WI) historically had high natural recruitment and a robust adult population of walleye but has severely declined. A lack of drought resilient spawning habitat has been identified as a key limitation to walleye success and a reef addition is scheduled for winter of 2027. Appealing characteristics of this system are the proximity of nearby Butternut Lake to serve as a control, the ongoing collaboration of federal, tribal, and state agencies in prior rehabilitation efforts (e.g., stocking and harvest restriction), and both lakes have extensive pre-reef sampling histories. Furthermore, both lakes support populations of rare inland lake whitefish which may also benefit from a spawning reef. Thus, this project offers a unique opportunity to evaluate the effectiveness of artificial reefs while addressing the common shortcomings identified in prior walleye rehabilitation projects. Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery. Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience.
 
-Objective:
-Our objective is to evaluate the whole-lake ecological and social effects of a spawning reef addition in Franklin Lake, with a focus on identifying habitat and fish community factors (e.g., competition and forage availability) that influence walleye recruitment and recovery.
+</details>
 
-Methods:
-Our objective necessitates in-depth understanding of the habitat, forage, and fish community factors that are not commonly incorporated in similar reef projects. We will track walleye spawning locations using ovipositor radio telemetry tags, and assess whole lake substrate, vegetation, and oxythermal habitat. We will evaluate egg deposition, and larval, age-0, and age-1 survival. We will characterize zooplankton and forage fish availability and assess the dynamics of potential sportfish competitors. Using non-lethal sampling and ovipositor tracking, we will characterize the lake whitefish populations.
+<details>
+  <summary><strong>Franklin Lake Ovipositor Tag Results</strong></summary>
 
-Project Outcomes:
-Results will inform the efficacy of artificial reefs as a walleye rehabilitation tool and support decision-making to sustain tribal food security, angler opportunity, and long-term ecological productivity and resilience. 
+A proposed factor limiting walleye recruitment in Franklin Lake is the lack of drought-resistant spawning habitat. Much of the preferred spawning habitat for walleye (e.g., layered cobble on a windswept shoreline) occurs immediately adjacent to shore, is limited to only a few sections of shoreline, and becomes dewatered during low-water years. As a seepage lake with limited groundwater inputs, Franklin Lake is particularly vulnerable to water level fluctuations. During the prolonged drought of the early to mid-2000s, lake levels dropped approximately 2–3 feet. This period coincided with the most pronounced declines in both adult and age-0 walleye abundance (Figure 1). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/frankAbundance.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 1. Adult walleye abundance in Franklin Lake from 1989-2025.</figcaption>
+</figure>
 
-<img src="/images/reef.jpg" alt="" style="width: 60%; height: auto; object-fit: contain;">
+To mitigate the lack of spawning habitat during low-water years, construction of an artificial spawning reef has been proposed and approved. During the winter, cobble will be transported from a nearby gravel pit and placed on the ice so that, as the ice weakens and breaks under the weight, the cobble settles along the 5–6 ft depth contour. During years with normal or high water levels, the reef will augment existing spawning habitat. During low-water years, it could replace habitat that is no longer underwater.
+
+Based on walleye catch rates and habitat observations, the proposed reef location is along the eastern shoreline, which is hypothesized to support the majority of walleye spawning activity in the lake (Figure 2). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/reef.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 2. Spawning reef location in Franklin Lake.</figcaption>
+</figure>  However, walleye are also frequently observed around the island and rock humps in the southern portion of the lake, and it is unclear how important these areas are for spawning. To better understand current spawning locations and help refine the final reef placement, we conducted an ovipositor tagging study during the spring of 2026.
+
+In late April, we set eight fyke nets in Franklin Lake in locations that both maximized walleye catch rates and ensured representation of the entire lake potential spawning habitat. The primary objective was to capture prespawn female walleye.
+
+Walleye spawn immediately after ice-out but are not necessarily ready to release their eggs right away. Spawning is likely triggered by a combination of photoperiod, water temperature, and schooling activity by males. In this pre-spawn state, the muscles surrounding the oviduct ("vent") remain tight, allowing us to insert small radio transmitters (ovipositor tags) into the oviduct. The tags are then retained until the female spawns and releases both her eggs and the tag. Females that were already ripe released the tags too easily and therefore were not suitable for this study.
+
+Ovipositor tags are small radio transmitters (~0.75 inches long and 0.3 inches in diameter) (Figure 3).<figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/oviTag.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 3. An ovipositor tag used in walleye tracking study in Franklin Lake.</figcaption>
+</figure> Each transmitter broadcasts a unique radio frequency that can be detected using a receiver and antenna. When the receiver is tuned to a specific tag, it detects the signal as a series of faint beeps that become louder as the receiver gets closer to the tag (Figure 4). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/tracking.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 4. A UW-Madison technician listening for ovipositor tags in Franklin Lake.</figcaption>
+</figure> Fish from each fyke net were processed separately. All walleye were sexed, measured for total length and weight, aged using dorsal spine samples, and marked with uniquely numbered Floy tags. Prespawn females also received an ovipositor tag. All fish were released at the lake's deep hole to standardize release locations. Once all 50 ovipositor tags had been deployed, we removed the fyke nets.
+
+We began tracking tags in early May and concluded the study in late May when the tag batteries expired. Each time a tag was located, we recorded a precise GPS location, measured water depth, and marked the location with a stake and pink flagging tape so a detailed habitat assessment could be conducted later in the summer (Figure 5). <figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/tagsPins.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 5. Recovered ovipositor tags and their spawned locations, marked with pink flagging tape.</figcaption>
+</figure>
+
+RESULTS
+
+We successfully located all 50 deployed tags and physically recovered 45 of them, for a 90% recovery rate (Figure 6).<figure style="text-align: center; margin: 1.25em 0 1.5em; clear: both;">
+  <img src="/images/reefTags.jpg" alt="" style="display: block; margin: 0 auto; width: 70%; max-width: 700px; height: auto; object-fit: contain;">
+  <figcaption>Figure 6. GPS locations of ovipositor tags recovered in Franklin Lake.</figcaption>
+</figure>
+
+The majority of the tags were found along the eastern shoreline in the rocky cobble that was hypothesized to be the primary spawning habitat. Many were buried beneath multiple layers of cobble, with only the antenna visible above the rocks.
+
+Additional tags were found near the northern and southern margins of the cobble bed where the substrate transitioned to sand and the cobble became sparser and more embedded. Franklin Lake is approximately 75% sand, and several of these tags had been washed completely out of the cobble. Based on walleye catch rates and habitat observations, these transition areas were thought to provide only marginal spawning habitat, and the tagging results support that hypothesis. 
+
+Only two tags were found in the southern portion of the lake near the island and rock humps, indicating that these areas are not heavily used for spawning despite the presence of adult walleye. Spawning occurred extremely close to shore. Approximately 64% of recovered tags were located in 6 inches of water or less.
+
+Conclusions
+
+Our study indicates that the preferred spawning habitat of walleye is limited and is extremely vulnerable to water level fluctuations. Spawning activity was concentrated along the eastern shoreline, and very little occurred around the island or southern rock humps.These findings tentatively support the proposed location of the artificial spawning reef, but additional analysis of the tag locations will be done to further optimize the final reef placement.
+
+During the summer of 2026, we will conduct a quantitative habitat assessment at each tag location to determine how substrate characteristics such as cobble size, embeddedness, and rock layer depth, influence spawning site selection. These results will help refine the final design and placement of the spawning reef.
+
+</details>
