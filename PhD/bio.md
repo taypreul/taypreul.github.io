@@ -111,7 +111,7 @@ header:
 
 <figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
   <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
-  <img src="/images/tpsWaeFrank.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
+  <img src="/images/tpsWaefrank.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
 </figure>
 </details>
