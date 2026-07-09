@@ -2,7 +2,7 @@
 title: ""
 collection: projects
 ---
-
+**My Ethos**
 We live in a diverse world facing a multitude of stressors. "Death by a thousand cuts" is a common paradigm, but it can be difficult to resolve managment concerns when we are lacking a whole-ecosystem perspective of mechanistic drivers of fish declines. Expanding the toolset available to managers to include habitat and forage angles can inform why traditional rehab metrics may be less successful.
 
 <hr/>
