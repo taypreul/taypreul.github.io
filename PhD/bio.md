@@ -7,6 +7,99 @@ header:
   overlay_image: IMG_2542back.jpg
   overlay_filter: 0.3
 ---
+<style>
+  .phd-page {
+    line-height: 1.65;
+  }
+
+  .phd-page details > summary {
+    line-height: 1.3;
+  }
+
+  .phd-page .phd-hero-grid {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .phd-page .phd-hero-main {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .phd-page .phd-hero-side {
+    flex: 0 0 300px;
+    max-width: 300px;
+    width: 100%;
+  }
+
+  .phd-page .phd-gallery-2,
+  .phd-page .phd-gallery-3 {
+    display: grid;
+    gap: 0.75rem;
+    align-items: start;
+    margin: 1.25em 0;
+  }
+
+  .phd-page .phd-gallery-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .phd-page .phd-gallery-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .phd-page .phd-gallery-2 img,
+  .phd-page .phd-gallery-3 img {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .phd-page .phd-gallery-2 figcaption,
+  .phd-page .phd-gallery-3 figcaption {
+    grid-column: 1 / -1;
+    font-size: 0.9em;
+    margin-top: 0.25em;
+  }
+
+  @media screen and (max-width: 767px) {
+    .phd-page {
+      font-size: 1rem;
+    }
+
+    .phd-page details > summary {
+      font-size: 1rem;
+      padding-right: 1.25rem;
+    }
+
+    .phd-page .phd-hero-grid {
+      display: block;
+    }
+
+    .phd-page .phd-hero-side {
+      flex: 1 1 auto;
+      max-width: none;
+      margin-top: 1rem;
+    }
+
+    .phd-page .phd-gallery-2,
+    .phd-page .phd-gallery-3 {
+      grid-template-columns: 1fr;
+    }
+
+    .phd-page .phd-gallery-2 img,
+    .phd-page .phd-gallery-3 img {
+      height: auto;
+      max-height: 280px;
+      object-fit: contain;
+    }
+  }
+</style>
+
+<div class="phd-page">
 <p>I began my PhD studies in the spring of 2026 via the Center for Limnology at UW-Madison. I am co-advised by Dr. Zach Feiner and Dr. Jake Vander Zanden at UW-Madison and Dr. Greg Sass with the WIDNR- Office of Applied Science. We are studying the effects of a spawning reef on Franklin Lake, WI, as well as assessing other whole-ecosystem factors that may be contributing to walleye recruitment trends across the region. This project is a large collaborative effort among WI DNR – Office of Applied Science, WI DNR- Fisheries Management, Sokaogon Chippewa Community, U.S. Forest Service, Great Lakes Indian Fish and Wildlife Commission, and UW- Madison Center for Limnology.</p>
 
 <p>Below you will find summaries of the fieldwork we have completed so far!</p>
@@ -31,8 +124,8 @@ header:
 <div>
   <details style="margin-bottom: 1.25rem;">
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Franklin Lake Walleye Spawning Locations 2026</summary>
-    <div style="display: flex; gap: 1.25rem; align-items: flex-start; flex-wrap: wrap;">
-  <div style="flex: 1 1 0; min-width: 0;">
+    <div class="phd-hero-grid">
+  <div class="phd-hero-main">
 <p>A proposed factor limiting walleye recruitment in Franklin Lake is the lack of drought-resistant spawning habitat. Much of the preferred spawning habitat for walleye (e.g., layered cobble on a windswept shoreline) occurs immediately adjacent to shore, is limited to only a few sections of shoreline, and becomes dewatered during low-water years. As a seepage lake with limited groundwater inputs, Franklin Lake is particularly vulnerable to water level fluctuations. During the prolonged drought of the early to mid-2000s, lake levels dropped approximately 2–3 feet. This period coincided with the most pronounced declines in both adult and age-0 walleye abundance (Figure 1).</p>
 
 <p>To mitigate the lack of spawning habitat during low-water years, construction of an artificial spawning reef has been proposed and approved. During the winter, cobble will be transported from a nearby gravel pit and placed on the ice so that, as the ice weakens and breaks under the weight, the cobble settles along the 5–6 ft depth contour. During years with normal or high water levels, the reef will augment existing spawning habitat. During low-water years, it could replace habitat that is no longer underwater.</p>
@@ -62,7 +155,7 @@ header:
 
 <p>During the summer of 2026, we will conduct a quantitative habitat assessment at each tag location to determine how substrate characteristics such as cobble size, embeddedness, and rock layer depth, influence spawning site selection. These results will help refine the final design and placement of the spawning reef.</p>
   </div>
-  <div style="flex: 0 0 300px; max-width: 300px; width: 100%;">
+  <div class="phd-hero-side">
     <figure style="margin: 0 0 1em 0; text-align: center;">
       <img src="/images/frankAbundance.jpg" alt="" style="display: block; width: 100%; height: auto; object-fit: contain; margin: 0 auto;">
       <figcaption style="font-size: 0.9em">Figure 1. Adult walleye abundance in Franklin Lake from 1989-2025.</figcaption>
@@ -99,7 +192,7 @@ header:
 <h4 style="margin: 1rem 0 0.4rem 0; font-size: 1.02em; font-weight: 700;">Butternut Lake</h4>
 
 <p>We fyke netted in Butternut in late April, and conducted bass electrofishing in early May. In Butternut, we estimated the walleye density was 2.1/acre and the average length was 16.9" (max 26.8") (Figure 1). We handled 1608 walleye in this survey and floy tagged 1373 fish. The smallmouth bass density was 2.4/acre and the average length was  ~17.5" (max 20.4"). We did not capture enough largemouth bass or northern pike to estimate density with confidence, but we assume that relative abundance is low.</p>
-<figure class="half">
+<figure class="phd-gallery-2 half">
   <img src="/images/bnutWAElength.jpg" alt="">
   <img src="/images/hannahWAE.jpg" alt="">
   <figcaption style="font-size: 0.9em">Figure 1. Length structure of walleye in Butternut Lake 2026; UW- Madison technician with Butternut walleye </figcaption>
@@ -109,7 +202,7 @@ header:
 
 <p>In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the average length was 19.4" (max 27.8"). We electrofished one night on Franklin and caught 74 smallmouth bass with an average length of ~16.4" (max 19.4") and 7 largemouth bass (max 21.3").</p> 
 
-<figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
+<figure class="phd-gallery-2">
   <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
   <img src="/images/tpsWaesquare.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
@@ -123,7 +216,7 @@ header:
 
 <p>We conducted electrofishing for yellow perch for multiple weeks in early May on both lakes. We did not find many perch > 6", and were unable to estimate the adult population. We conducted panfish netting in early June on both lakes to estimate the relative abundance of panfish. We used the same type of fyke net as in our sportfish survey, but with a smaller mesh size to catch smaller fish. Yellow perch were most abundant, but were small (average length Franklin-3.1", Butternut- 3.5"). Bluegill were abundant; rock bass were in moderate abundance; pumpkinseed had the lowest relative abundance. We observed few panfish > 6" in either lake. Both lakes appear to have an abundance of small fish across a variety of species that likely serve as a food base for fish like walleye, bass, and pike.</p>
 
- <figure style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem; align-items: start;">
+ <figure class="phd-gallery-3">
   <img src="/images/franklin_sunrise.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
   <img src="/images/commonFrank.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
   <img src="/images/dace.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
@@ -137,11 +230,12 @@ header:
   <details style="margin-bottom: 1.25rem;">
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Other Work</summary>
 <p>We have been conducting biweekly water quality (e.g., temperature, oxygen, chlorophyl-a,) and zooplankton (microscopic animals) sampling on both lakes in conjunction with the other sampling being done by CLMN volunteers. We have also been collecting benthic macroinvertebrates (aquatic bugs) each month by kicknetting in the substrate. We are interested in understanding how the availability of forage on these lower trophic levels may impact the interactions of fish in both lakes, and how invasive species like rusty crayfish and spiny water flea interact with the aquatic community.</p>
-<figure style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.75em; align-items: start; margin: 1.25em 0;">
+<figure class="phd-gallery-2">
   <img src="/images/kicknet.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
   <img src="/images/bug.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">UW-Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake; an aquatic macroinvertebrate being identified under the microscope </figcaption>
 </figure>
  
 </details>
+</div>
 </div>
