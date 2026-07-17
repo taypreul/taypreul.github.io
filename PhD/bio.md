@@ -53,9 +53,16 @@ header:
   .phd-page .phd-gallery-2 img,
   .phd-page .phd-gallery-3 img {
     width: 100%;
-    height: 210px;
-    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    max-height: 320px;
+    object-fit: contain;
     display: block;
+    margin: 0 auto;
+  }
+
+  .phd-page .phd-gallery-2.half img {
+    max-height: 360px;
   }
 
   .phd-page .phd-gallery-2 figcaption,
@@ -92,8 +99,8 @@ header:
 
     .phd-page .phd-gallery-2 img,
     .phd-page .phd-gallery-3 img {
-      height: auto;
       max-height: 280px;
+      width: 100%;
       object-fit: contain;
     }
   }
@@ -193,8 +200,8 @@ header:
 
 <p>We fyke netted in Butternut in late April, and conducted bass electrofishing in early May. In Butternut, we estimated the walleye density was 2.1/acre and the average length was 16.9" (max 26.8") (Figure 1). We handled 1608 walleye in this survey and floy tagged 1373 fish. The smallmouth bass density was 2.4/acre and the average length was  ~17.5" (max 20.4"). We did not capture enough largemouth bass or northern pike to estimate density with confidence, but we assume that relative abundance is low.</p>
 <figure class="phd-gallery-2 half">
-  <img src="/images/bnutWAElength.jpg" alt="">
-  <img src="/images/hannahWAE.jpg" alt="">
+  <img src="/images/bnutWAElength.jpg" alt="" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;">
+  <img src="/images/hannahWAE.jpg" alt="" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;">
   <figcaption style="font-size: 0.9em">Figure 1. Length structure of walleye in Butternut Lake 2026; UW- Madison technician with Butternut walleye </figcaption>
 </figure>
 
@@ -203,8 +210,8 @@ header:
 <p>In Franklin, we captured 13.9 walleye/net night (8 nets, two nights) and the average length was 19.4" (max 27.8"). We electrofished one night on Franklin and caught 74 smallmouth bass with an average length of ~16.4" (max 19.4") and 7 largemouth bass (max 21.3").</p> 
 
 <figure class="phd-gallery-2">
-  <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
-  <img src="/images/tpsWaesquare.jpg" alt="" style="width: 100%; height: 260px; object-fit: cover; display: block;">
+  <img src="/images/SCCFrankfyke.jpg" alt="" style="width: 100%; height: auto; object-fit: contain; display: block;">
+  <img src="/images/tpsWaesquare.jpg" alt="" style="width: 100%; height: auto; object-fit: contain; display: block;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">Sokaogon Chippewa Community biologists setting fyke nets through ice on Franklin, walleye on Franklin Lake.</figcaption>
 </figure>
 </details>
@@ -217,9 +224,9 @@ header:
 <p>We conducted electrofishing for yellow perch for multiple weeks in early May on both lakes. We did not find many perch > 6", and were unable to estimate the adult population. We conducted panfish netting in early June on both lakes to estimate the relative abundance of panfish. We used the same type of fyke net as in our sportfish survey, but with a smaller mesh size to catch smaller fish. Yellow perch were most abundant, but were small (average length Franklin-3.1", Butternut- 3.5"). Bluegill were abundant; rock bass were in moderate abundance; pumpkinseed had the lowest relative abundance. We observed few panfish > 6" in either lake. Both lakes appear to have an abundance of small fish across a variety of species that likely serve as a food base for fish like walleye, bass, and pike.</p>
 
  <figure class="phd-gallery-3">
-  <img src="/images/franklin_sunrise.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
-  <img src="/images/commonFrank.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
-  <img src="/images/dace.jpg" alt="" style="width: 100%; height: 210px; object-fit: cover;">
+  <img src="/images/franklin_sunrise.jpg" alt="" style="width: 100%; height: auto; object-fit: contain;">
+  <img src="/images/commonFrank.jpg" alt="" style="width: 100%; height: auto; object-fit: contain;">
+  <img src="/images/dace.jpg" alt="" style="width: 100%; height: auto; object-fit: contain;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1;">Sunrise on Franklin lake, common shiner on Franklin, Northern redbelly dace on Butternut lake </figcaption>
 </figure>
 
@@ -231,8 +238,8 @@ header:
     <summary style="font-size: 1.1em; font-weight: 700; cursor: pointer; margin-bottom: 0.75rem;">Other Work</summary>
 <p>We have been conducting biweekly water quality (e.g., temperature, oxygen, chlorophyl-a,) and zooplankton (microscopic animals) sampling on both lakes in conjunction with the other sampling being done by CLMN volunteers. We have also been collecting benthic macroinvertebrates (aquatic bugs) each month by kicknetting in the substrate. We are interested in understanding how the availability of forage on these lower trophic levels may impact the interactions of fish in both lakes, and how invasive species like rusty crayfish and spiny water flea interact with the aquatic community.</p>
 <figure class="phd-gallery-2">
-  <img src="/images/kicknet.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
-  <img src="/images/bug.jpg" alt="" style="width: 100%; height: 240px; object-fit: cover; display: block;">
+  <img src="/images/kicknet.jpg" alt="" style="width: 100%; height: auto; object-fit: contain; display: block;">
+  <img src="/images/bug.jpg" alt="" style="width: 100%; height: auto; object-fit: contain; display: block;">
   <figcaption style="font-size: 0.9em; grid-column: 1 / -1; margin-top: 0.25em;">UW-Madison technician collecting aquatic macroinvertebrates from a kick net on Butternut Lake; an aquatic macroinvertebrate being identified under the microscope </figcaption>
 </figure>
  
